@@ -1,0 +1,12 @@
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\bin\Debug\net5.0\WebApplication1.Shared.deps.json
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\bin\Debug\net5.0\WebApplication1.Shared.dll
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\bin\Debug\net5.0\ref\WebApplication1.Shared.dll
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\bin\Debug\net5.0\WebApplication1.Shared.pdb
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.csprojAssemblyReference.cache
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.AssemblyInfoInputs.cache
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.AssemblyInfo.cs
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.csproj.CoreCompileInputs.cache
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.dll
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\ref\WebApplication1.Shared.dll
+C:\Fuentes_blazor\WebApplication1\WebApplication1\Shared\obj\Debug\net5.0\WebApplication1.Shared.pdb
